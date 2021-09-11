@@ -44,7 +44,7 @@ class GFG {
 
     { 
 
-        int[] a = { 1, 2, 4, 5, 6 }; 
+        int[] a = { 7, 3, 8, 4, 5,1,6 }; 
 
         System.out.println(findDisappearedNumbers(a)); 
 
