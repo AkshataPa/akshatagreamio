@@ -42,14 +42,6 @@ female<input type="radio" name="g" value="f"/>
 </td>
 </tr>
 <tr>
-<th>Select your hobbies</th>
-<td>
-hobby1<input type="checkbox" name="x[]" value="h"/>
-hobby2<input type="checkbox" name="x[]" value="h2"/>
-hobby3<input type="checkbox" name="x[]" value="h3"/>
-</td>
-</tr>
-<tr>
 <th>Select your DOB</th>
 <td><input type="date"/></td>
 </tr>
@@ -59,7 +51,7 @@ hobby3<input type="checkbox" name="x[]" value="h3"/>
 <select name="country">
 <option value="" selected="selected" disabled="disabled">Select your country</option>
 <option value="1">India</option>
-<option value="2">Pakistan</option>
+<option value="2">Korea</option>
 </select>
 </td>
 </tr>
